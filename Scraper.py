@@ -229,7 +229,7 @@ class PropertyScrapper:
                 location=lambda df_: (
                     df_
                     .location
-                    .str.replace("chennai", "")
+                    .str.replace("ahmedabad", "")
                     .str.strip()
                     .str.replace(",$", "", regex=True)
                     .str.split("in")
