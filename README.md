@@ -4,9 +4,11 @@
 
 A powerful and customizable web scraper for extracting real estate data 🏘️ from [99acres.com](https://www.99acres.com/), one of India's leading property listing websites.
 
-## 🎥 Project Demo
+## 🎥Project Demo 
 
-[![Watch the video](https://youtu.be/8Tu0r3jmK6I)](https://youtu.be/8Tu0r3jmK6I)
+# Click on the image to watch video
+
+[![Watch the video](assets/image.png)](https://youtu.be/8Tu0r3jmK6I)
 
 ---
 
