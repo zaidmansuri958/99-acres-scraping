@@ -198,7 +198,7 @@ class PropertyScrapper:
                 next_page_btn = self.driver.find_element(
                     By.XPATH, "//a[normalize-space()='Next Page >']")
             except:
-                print("we have scraped {page_count} pages")
+                print(f"we have scraped {page_count} pages")
                 break
             else:
                 try:
